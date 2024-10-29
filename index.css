@@ -97,3 +97,11 @@ footer p {
 nav a:hover {
     color: white;
 }
+
+.twitter {
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
