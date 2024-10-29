@@ -1,0 +1,50 @@
+body {
+    color: white;
+    background-color: black;
+    background-image: url(https://4kwallpapers.com/images/wallpapers/cristiano-ronaldo-1920x1080-17331.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: red;
+    text-decoration: none; 
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.instagram{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+.youtube{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
